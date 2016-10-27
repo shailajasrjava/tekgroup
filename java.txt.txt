@@ -1,3 +1,1 @@
-A Hashtable is an array of list.Each list is known as a bucket.
-The position of bucket is identified by calling the hashcode() method.A Hashtable contains values based on the key.
- It implements the Map interface and extends Dictionary class.
+java developers hub
