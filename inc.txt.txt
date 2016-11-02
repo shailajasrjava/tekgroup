@@ -1,0 +1,1 @@
+int replaceAllCase2 = testString.length() - testString.replaceAll("\\.", "").length();
