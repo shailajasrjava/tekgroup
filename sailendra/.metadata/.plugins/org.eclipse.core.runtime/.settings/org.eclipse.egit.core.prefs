@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 GitRepositoriesView.GitDirectories=C\:\\Users\\user\\tekgorup\\tekgroup\\.git;
 GitRepositoriesView.GitDirectories.relative=C\:\\Users\\user\\tekgorup\\tekgroup\\.git;
+=======
+GitRepositoriesView.GitDirectories=C\:\\Users\\kavyapathapally\\tekgroup\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\kavyapathapally\\tekgroup\\.git;
+>>>>>>> 0d27062dd9aafdb65d885e1d5b2d09dd1f99f8a1
 eclipse.preferences.version=1

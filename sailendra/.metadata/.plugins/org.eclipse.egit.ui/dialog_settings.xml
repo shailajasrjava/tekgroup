@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="CommitDialog.authorValues">
+<<<<<<< HEAD
 		<item value="tekgroup &lt;kalyani39.gutta@gmail.com&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
@@ -12,6 +13,19 @@
 		<item value="458" key="DIALOG_HEIGHT"/>
 		<item value="358" key="DIALOG_X_ORIGIN"/>
 		<item value="67" key="DIALOG_Y_ORIGIN"/>
+=======
+		<item value="tekgroup &lt;kavya.kavya92@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="tekgroup &lt;kavya.kavya92@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="663" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.04712|0|WINDOWS|1|-24|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="451" key="DIALOG_HEIGHT"/>
+		<item value="-25" key="DIALOG_X_ORIGIN"/>
+		<item value="-103" key="DIALOG_Y_ORIGIN"/>
+>>>>>>> 0d27062dd9aafdb65d885e1d5b2d09dd1f99f8a1
 		<list key="sashWeights">
 			<item value="600"/>
 			<item value="400"/>
