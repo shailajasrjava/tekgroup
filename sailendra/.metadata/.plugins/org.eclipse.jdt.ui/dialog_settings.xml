@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+<<<<<<< HEAD
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="2" key="layout"/>
 		<item value="true" key="group_libraries"/>
@@ -7,10 +8,15 @@
 		<item value="1" key="rootMode"/>
 		<item value="false" key="linkWithEditor"/>
 	</section>
+=======
+>>>>>>> 0d27062dd9aafdb65d885e1d5b2d09dd1f99f8a1
 	<section name="quick_assist_proposal_size">
 	</section>
 	<section name="completion_proposal_size">
 	</section>
+<<<<<<< HEAD
 	<section name="JavaElementSearchActions">
 	</section>
+=======
+>>>>>>> 0d27062dd9aafdb65d885e1d5b2d09dd1f99f8a1
 </section>
