@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FormSubmit"
+  id="myeclipse.1479839986419"
+  context-root="/FormSubmit"
+  j2ee-spec="5.0"
+  archive="FormSubmit.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

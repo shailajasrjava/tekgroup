@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+<<<<<<< HEAD
 		<item value="C:\Users\user\tekgorup\tekgroup\sailendra\AnushaJava"/>
+=======
+		<item value="C:\Users\kavyapathapally\tekgroup\sailendra\AnushaJava"/>
+>>>>>>> 0d27062dd9aafdb65d885e1d5b2d09dd1f99f8a1
 	</list>
 </section>
