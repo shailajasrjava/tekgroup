@@ -12,6 +12,7 @@ public class Test
 		al.add(new Student(101, "Raj", 24));
 		al.add(new Student(107, "Ajay", 23));
 		al.add(new Student(121, "Ram", 32));
+		al.add(new Student(127, "Ravi", 62));
 		Collections.sort(al);
 		for(Student s:al)
 		{
