@@ -13,6 +13,7 @@ public class EmpDao {
 			con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "system", "shailaja");
 		} catch (Exception e) {
 			System.out.println(e);
+			System.out.println("error");
 		}
 		return con;
 	}
