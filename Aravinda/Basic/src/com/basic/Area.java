@@ -9,5 +9,6 @@ public class Area {
 		pi = 3.1416; // pi, approximately
 		a=pi*r*r;
 		System.out.println("area is "+a);
+		System.out.println("hai");
 		}
 }
