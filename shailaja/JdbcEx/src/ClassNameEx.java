@@ -1,6 +1,7 @@
 import java.sql.Connection;
 import java.sql.DriverManager;
 //comment
+//second comment
 public class ClassNameEx {
 	public static void main(String[] args) throws Exception {
 		Class.forName("oracle.jdbc.driver.OracleDriver");
