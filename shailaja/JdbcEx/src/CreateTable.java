@@ -11,7 +11,7 @@ public class CreateTable {
 		stmt.execute(str);
 		//System.out.println(stmt.getClass().getName());
 		obj.close();
-		
+		//sop
 		
 	}
 
