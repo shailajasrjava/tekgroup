@@ -12,7 +12,7 @@ public class CreateTable {
 		//System.out.println(stmt.getClass().getName());
 		obj.close();
 		//sop
-		
+		//sop
 	}
 
 }
