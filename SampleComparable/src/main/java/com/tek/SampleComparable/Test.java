@@ -20,7 +20,9 @@ public class Test
 		for(Student s:al)
 		{
 			System.out.println(s.rollno+" "+s.name+" "+s.age);
+			
 		}
+		System.out.println("test");
 	}
 
 
